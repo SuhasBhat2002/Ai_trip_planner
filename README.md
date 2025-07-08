@@ -118,7 +118,7 @@ Send a question or travel request.
 
 * Built a modular FastAPI backend.
 * Integrated agentic planning logic via `GraphBuilder`.
-* Enabled CORS for external frontend usage.
+* Deployed using Streamlit.
 * Created support for visualizing planning logic.
 * Structured project for future extensibility with tools, prompts, and notebooks.
 
