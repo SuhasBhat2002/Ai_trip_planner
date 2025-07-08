@@ -4,6 +4,7 @@
 
 
 <img width="500" alt="trip 1 2" src="https://github.com/user-attachments/assets/07528e58-ec9c-4687-a2d9-9cbdaf4cd529" />
+
 <img width="500" alt="trip 2" src="https://github.com/user-attachments/assets/42bdc925-430b-4aca-a17e-1a15a04b9d0e" />
 <img width="500" alt="trip 3" src="https://github.com/user-attachments/assets/82746ec1-5107-4de2-b314-44d4b83bba38" />
 
